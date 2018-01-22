@@ -1,28 +1,4 @@
 {
-  "_from": "nodejs-externs",
-  "_id": "nodejs-externs@0.10.1",
-  "_inBundle": false,
-  "_integrity": "sha1-lXY39cI5t/M6LPsgKDbljnCsHKs=",
-  "_location": "/nodejs-externs",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "nodejs-externs",
-    "name": "nodejs-externs",
-    "escapedName": "nodejs-externs",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/nodejs-externs/-/nodejs-externs-0.10.1.tgz",
-  "_shasum": "957637f5c239b7f33a2cfb202836e58e70ac1cab",
-  "_spec": "nodejs-externs",
-  "_where": "c:\\Users\\dabe\\WebstormProjects\\nodejs-externs",
   "author": {
     "name": "Daniel Steigerwald"
   },
@@ -43,10 +19,6 @@
   "license": "MIT",
   "main": "index.js",
   "name": "nodejs-externs",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/steida/nodejs-externs.git"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
