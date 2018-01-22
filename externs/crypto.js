@@ -31,7 +31,7 @@
 /**
  * @type {Object.<string,*>}
  */
-var crypto = {};
+//var crypto = {};
 
 /**
  * @type {string}
